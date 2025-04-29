@@ -4,3 +4,5 @@
 ![](https://activity-graph.herokuapp.com/graph?username=btwiuse&theme=react-dark)
 
 [![vscode rebase](https://github.com/btwiuse/vscode/actions/workflows/rebase-upstream.yml/badge.svg)](https://github.com/btwiuse/vscode/actions/workflows/rebase-upstream.yml)
+
+[![stable-linux](https://github.com/btwiuse/vscodium/actions/workflows/stable-linux.yml/badge.svg)](https://github.com/btwiuse/vscodium/actions/workflows/stable-linux.yml)
