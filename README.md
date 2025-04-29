@@ -6,3 +6,5 @@
 [![vscode rebase](https://github.com/btwiuse/vscode/actions/workflows/rebase-upstream.yml/badge.svg)](https://github.com/btwiuse/vscode/actions/workflows/rebase-upstream.yml)
 
 [![stable-linux](https://github.com/btwiuse/vscodium/actions/workflows/stable-linux.yml/badge.svg)](https://github.com/btwiuse/vscodium/actions/workflows/stable-linux.yml)
+
+[![Rebase from Upstream](https://github.com/btwiuse/eliza/actions/workflows/rebase-upstream.yml/badge.svg)](https://github.com/btwiuse/eliza/actions/workflows/rebase-upstream.yml)
