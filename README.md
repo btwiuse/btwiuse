@@ -12,3 +12,5 @@
 [![Update vsdiff](https://github.com/btwiuse/vsdiff/actions/workflows/update-vsdiff.yml/badge.svg)](https://github.com/btwiuse/vsdiff/actions/workflows/update-vsdiff.yml)
 
 [![Rebase onto Upstream](https://github.com/btwiuse/pdk/actions/workflows/rebase-upstream.yml/badge.svg)](https://github.com/btwiuse/pdk/actions/workflows/rebase-upstream.yml)
+
+[![Rebase onto Upstream](https://github.com/subdirectory/deno/actions/workflows/rebase-upstream.yml/badge.svg)](https://github.com/subdirectory/deno/actions/workflows/rebase-upstream.yml)
